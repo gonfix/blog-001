@@ -109,19 +109,19 @@ export function ListPrimary() {
                         href="/servicos/cidadania-portuguesa"
                         onClick={handleClose}
                       >
-                        <li className="MenuLi mt-5">Cidadania Portuguesa</li>
+                        <li className="MenuLi mt-5">Serviço1</li>
                       </Link>
                       <Link
                         href="/servicos/cidadania-italiana"
                         onClick={handleClose}
                       >
-                        <li className="MenuLi">Cidadania Italiana</li>
+                        <li className="MenuLi">Serviço2</li>
                       </Link>
                       <Link
                         href="/servicos/visto-portugues"
                         onClick={handleClose}
                       >
-                        <li>Serviço</li>
+                        <li>Serviço3</li>
                       </Link>
                     </ul>
                   ) : (
@@ -165,7 +165,7 @@ export function ListPrimary() {
             >
               <Link
                 href="#"
-                onClick={(event) => scrollToSection(event, "servicos")}
+                onClick={(event) => scrollToSection(event, "serviços")}
               >
                 <MenuButton
                   _active={{ backgroundColor: "transparent" }}
