@@ -38,7 +38,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
             <div className="py-7 lg:py-16 flex flex-col lg:col-span-3">
               <div className=" flex flex-col lg:flex-row items-center lg:items-end gap-5">
                 <h1 className="mt-4 text-3xl font-medium  lg:text-5xl text-green-500 flex gap-4 order-2 lg:order-1">
-                  Lorem Ipsum Dolor Sit Amet
+                  Lorem Ipsum
                 </h1>
                 <Image
                   src="/bandeira-italia.webp"
@@ -76,10 +76,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
 
             <div className="order-1 lg:order-2 flex flex-col">
               <span className="mt-4 text-green-500 font-medium">
-                Sobre o serviço
+                Lorem Ipsum
               </span>
               <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                Lorem Ipsum Dolor Sit Amet
+                Lorem Ipsum
               </h2>
               <p className="text-sm sm:text-base mt-4 text-gray-300 lg:leading-5">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -96,7 +96,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
               height={50}
               className="w-9 h-9 lg:h-auto lg:w-auto"
             />
-            <p>Processo descomplicado</p>
+            <p>Lorem Ipsum</p>
           </div>
           <div className="icons-service">
             <Image
@@ -106,7 +106,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
               height={50}
               className="w-9 h-9 lg:h-auto lg:w-auto"
             />
-            <p>Segurança, rapidez e tecnologia</p>
+            <p>Lorem Ipsum</p>
           </div>
           <div className="icons-service">
             <Image
@@ -116,7 +116,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
               height={50}
               className="w-9 h-9 lg:h-auto lg:w-auto"
             />
-            <p>Advogados especializados</p>
+            <p>Lorem Ipsum</p>
           </div>
           <div className="icons-service">
             <Image
@@ -126,7 +126,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
               height={50}
               className="w-9 h-9 lg:h-auto lg:w-auto"
             />
-            <p>Pagamento facilitado</p>
+            <p>Lorem Ipsum</p>
           </div>
           <div className="icons-service">
             <Image
@@ -136,15 +136,15 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
               height={50}
               className="w-9 h-9 lg:h-auto lg:w-auto"
             />
-            <p>Suporte personalizado</p>
+            <p>Lorem Ipsum</p>
           </div>
         </section>
         <section className="py-10">
           <div className="bg-green-400 pt-16">
             <div className="text-center container">
-              <span className="text-green-500 font-medium">Como Funciona</span>
+              <span className="text-green-500 font-medium">Lorem Ipsum</span>
               <h2 className="mt-2  text-2xl sm:text-4xl text-black-400 font-medium">
-                Lorem Ipsum Dolor Sit Amet
+                Lorem Ipsum
               </h2>
               <p className="text-base mt-4 text-gray-300 mx-auto max-w-2xl px-2   lg:leading-5 ">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -159,12 +159,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                 </div>
                 <div className="">
                   <h3 className=" text-base lg:text-xl font-medium text-black-400 lg:mt-10">
-                    Organização
+                    Lorem Ipsum
                   </h3>
                   <p className=" text-sm lg:text-base text-gray-300 mt-3">
-                    Oferecemos uma variedade de serviços para os nossos
-                    assessorados que buscam o sonho de viver em Portugal e
-                    Itália!
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                   </p>
                 </div>
               </div>
@@ -175,12 +173,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                 </div>
                 <div className="">
                   <h3 className=" text-base lg:text-xl font-medium text-black-400 lg:mt-10">
-                    Pedido de Cidadania
+                    Lorem Ipsum
                   </h3>
                   <p className=" text-sm lg:text-base text-gray-300 mt-3">
-                    Oferecemos uma variedade de serviços para os nossos
-                    assessorados que buscam o sonho de viver em Portugal e
-                    Itália!
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                   </p>
                 </div>
               </div>
@@ -191,12 +187,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                 </div>
                 <div className="">
                   <h3 className=" text-base lg:text-xl font-medium text-black-400 lg:mt-10">
-                    Entrega de Materiais
+                    Lorem Ipsum
                   </h3>
                   <p className=" text-sm lg:text-base text-gray-300 mt-3">
-                    Oferecemos uma variedade de serviços para os nossos
-                    assessorados que buscam o sonho de viver em Portugal e
-                    Itália!
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                   </p>
                 </div>
               </div>
@@ -206,9 +200,9 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
         <section className="py-10 lg:py-5 mt-2 lg:my-5 container">
           <div className=" lg:pt-16">
             <div className="text-center">
-              <span className="text-green-500 font-medium">FAQ</span>
+              <span className="text-green-500 font-medium">Lorem Ipsum</span>
               <h2 className="mt-2 text-2xl lg:text-4xl text-black-400 font-medium">
-                Lorem Ipsum Dolor Sit Amet
+                Lorem Ipsum
               </h2>
               <p className="text-sm lg:text-base mt-4 text-gray-300 mx-auto max-w-2xl lg:px-2   lg:leading-5 ">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -239,7 +233,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                           textAlign="left"
                           className="text-base lg:text-xl font-medium   flex justify-between"
                         >
-                          Quanto tempo leva para a conclusão do pedida?
+                          Lorem Ipsum
                         </Box>
                         {isExpanded ? (
                           <HiOutlineMinusSm
@@ -256,10 +250,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                     </h2>
                     <AccordionPanel pb={4} m={0} p={0}>
                       <p className="text-sm lg:text-base font-normal text-gray-300 mb-3">
-                        Não há um prazo exato para os procedimentos, isso varia
-                        de acordo com o volume de pedidos solicitados no momento
-                        e a quantidade de pessoas contempladas pelo pedido, mas,
-                        em média, os pedidos são concluídos em 2 anos.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                       </p>
                     </AccordionPanel>
                   </>
@@ -283,7 +274,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                           textAlign="left"
                           className="text-base lg:text-xl font-medium flex justify-between"
                         >
-                          É possivel que o pedido seja negado?
+                          Lorem Ipsum
                         </Box>
                         {isExpanded ? (
                           <HiOutlineMinusSm
@@ -300,10 +291,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                     </h2>
                     <AccordionPanel pb={4} m={0} p={0}>
                       <p className="text-sm lg:text-base font-normal text-gray-300 mb-3">
-                        Não há um prazo exato para os procedimentos, isso varia
-                        de acordo com o volume de pedidos solicitados no momento
-                        e a quantidade de pessoas contempladas pelo pedido, mas,
-                        em média, os pedidos são concluídos em 2 anos.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                       </p>
                     </AccordionPanel>
                   </>
@@ -327,7 +315,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                           textAlign="left"
                           className="text-base lg:text-xl font-medium  flex justify-betweew"
                         >
-                          Qual quer pessoa pode fazer a solicitação
+                          Lorem Ipsum
                         </Box>
                         {isExpanded ? (
                           <HiOutlineMinusSm
@@ -344,10 +332,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                     </h2>
                     <AccordionPanel pb={4} m={0} p={0}>
                       <p className="text-sm lg:text-base font-normal text-gray-300 mb-3">
-                        Não há um prazo exato para os procedimentos, isso varia
-                        de acordo com o volume de pedidos solicitados no momento
-                        e a quantidade de pessoas contempladas pelo pedido, mas,
-                        em média, os pedidos são concluídos em 2 anos.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                       </p>
                     </AccordionPanel>
                   </>
@@ -371,8 +356,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                           textAlign="left"
                           className="text-base lg:text-xl font-medium flex justify-between"
                         >
-                          Posso morar no país enquanto a solicitação está em
-                          andamento?
+                          Lorem Ipsum
                         </Box>
                         {isExpanded ? (
                           <HiOutlineMinusSm
@@ -389,10 +373,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                     </h2>
                     <AccordionPanel pb={4} m={0} p={0}>
                       <p className="text-sm lg:text-base font-normal text-gray-300 mb-3">
-                        Não há um prazo exato para os procedimentos, isso varia
-                        de acordo com o volume de pedidos solicitados no momento
-                        e a quantidade de pessoas contempladas pelo pedido, mas,
-                        em média, os pedidos são concluídos em 2 anos.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                       </p>
                     </AccordionPanel>
                   </>
@@ -416,7 +397,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                           textAlign="left"
                           className="text-base lg:text-xl font-medium flex justify-between"
                         >
-                          Quanto custa todo o processo?
+                          Lorem Ipsum
                         </Box>
                         {isExpanded ? (
                           <HiOutlineMinusSm
@@ -433,10 +414,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                     </h2>
                     <AccordionPanel pb={4} m={0} p={0}>
                       <p className="text-sm lg:text-base font-normal text-gray-300 mb-3">
-                        Não há um prazo exato para os procedimentos, isso varia
-                        de acordo com o volume de pedidos solicitados no momento
-                        e a quantidade de pessoas contempladas pelo pedido, mas,
-                        em média, os pedidos são concluídos em 2 anos.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                       </p>
                     </AccordionPanel>
                   </>
@@ -450,10 +428,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
             <div className="text-center lg:text-start container grid grid-cols-1 lg:grid-cols-5 items-center lg:gap-16 lg:my-8 box-banner">
               <div className="col-span-3 px-10 py-10 flex flex-col">
                 <span className=" mt-16 lg:mt-8 text-green-500 font-medium">
-                  Contato
+                  Lorem Ipsum
                 </span>
                 <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium lg:leading-9">
-                  Lorem Ipsum Dolor Sit Amet
+                  Lorem Ipsum
                 </h2>
                 <p className="text-sm sm:text-base mt-4 text-gray-300">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -478,9 +456,9 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
             <div className="flex flex-col container items-center lg:items-stretch">
               <div className="text-center lg:text-start flex items-center">
                 <div className="max-w-3xl mx-auto mb-14 lg:ml-0">
-                  <span className="mt-4 text-green-500 font-medium">Blog</span>
+                  <span className="mt-4 text-green-500 font-medium">Lorem Ipsum</span>
                   <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                    Lorem Ipsum Dolor Sit Amet
+                    Lorem Ipsum
                   </h2>
                   <p className="text-sm sm:text-base mt-4 text-gray-300  lg:leading-5">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
