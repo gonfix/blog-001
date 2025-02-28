@@ -116,18 +116,17 @@ const Home: NextPage<HomeProps> = ({ blogData }) => {
                 priority
               />
               <h1 className="mt-4 text-3xl font-medium  lg:text-5xl text-black-500">
-                Assessoria de imigração para Portugal e Itália
+                Lorem Ipsum Dolor Sit Amet
               </h1>
               <p className="mx-auto mt-4 lg:mt-3 text-gray-300 text-sm lg:text-xl max-w-md lg:ml-0  lg:leading-6">
-                Conquiste sua cidadania sem se preocupar com burocracias.
-                Economize tempo e dinheiro com com a Imigrei!
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
               <Link
                 href="#"
                 className=" mt-4 lg:mt-11 linkButton text-base  max-w-[209px] mx-auto lg:ml-0"
                 onClick={(event) => scrollToSection(event, "servicos")}
               >
-                Conhecer Serviços
+                Solicitar Cotação
               </Link>
             </div>
             <Image
@@ -156,13 +155,10 @@ const Home: NextPage<HomeProps> = ({ blogData }) => {
                 Quem Somos
               </span>
               <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                Prazer, somos a Imigrei!
+                Lorem Ipsum Dolor Sit Amet
               </h2>
               <p className="text-sm sm:text-base mt-4 text-gray-300 lg:leading-5">
-                Oferecemos uma variedade de serviços para os nossos assessorados
-                que buscam o sonho de viver em Portugal e Itália! Oferecemos uma
-                variedade de serviços para os nossos assessorados que buscam o
-                sonho de viver em Portugal e Itália!
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
               <Link
                 href="#"
@@ -177,11 +173,10 @@ const Home: NextPage<HomeProps> = ({ blogData }) => {
           <div className="text-center container">
             <span className="text-green-500 font-medium">Serviços</span>
             <h2 className="mt-2  text-2xl sm:text-4xl text-black-400 font-medium">
-              Conheça as nossas áreas de atuação
+              Lorem Ipsum Dolor Sit Amet
             </h2>
             <p className="text-sm sm:text-base mt-4 text-gray-300 mx-auto max-w-xl  lg:leading-5 ">
-              Oferecemos uma variedade de serviços para os nossos assessorados
-              que buscam o sonho de viver em Portugal e Itália!
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
           </div>
           <div className="mt-6 py-8 box-green overflow-hidden">
@@ -194,11 +189,10 @@ const Home: NextPage<HomeProps> = ({ blogData }) => {
           <div className="container my-10 text-center text-gray-500 bg-white-400 lg:bg-subscribeLg bg-cover py-14 lg:my-20">
             <span className="mt-7 text-green-500 font-medium">Newsletter</span>
             <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-              Fique por dentro das nossas atualizações!
+              Lorem Ipsum Dolor Sit Amet
             </h2>
             <p className="text-sm sm:text-base mt-4 text-gray-300">
-              Saiba o que acontece no mundo da imigrações e cidadania em
-              Portugal e Itália.
+              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
             </p>
 
             <form
@@ -232,11 +226,10 @@ const Home: NextPage<HomeProps> = ({ blogData }) => {
               <div className="max-w-3xl mx-auto mb-14 lg:ml-0">
                 <span className="mt-4 text-green-500 font-medium">Blog</span>
                 <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                  Conteúdo de qualidade para imigrantes
+                  Lorem Ipsum Dolor Sit Amet
                 </h2>
                 <p className="text-sm sm:text-base mt-4 text-gray-300  lg:leading-5">
-                  Oferecemos uma variedade de serviços para os nossos
-                  assessorados que buscam o sonho de viver em Portugal e Itália!
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
               </div>
               <Link href="/blog" className="hidden lg:block button ml-auto">
@@ -258,11 +251,10 @@ const Home: NextPage<HomeProps> = ({ blogData }) => {
               <div className="lg:max-w-md py-16 text-center lg:text-start  px-5 lg:px-0">
                 <span className="mt-4 text-green-500 font-medium">Contato</span>
                 <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                  Fale com a Imigrei
+                  Lorem Ipsum Dolor Sit Amet
                 </h2>
                 <p className="text-sm sm:text-base mt-4 text-gray-500 lg:leading-5">
-                  Preencha o formulário com os seus melhores contatos que
-                  retornaremos o mais breve possível!
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
                 <form
                   onSubmit={handleFormSubmit}

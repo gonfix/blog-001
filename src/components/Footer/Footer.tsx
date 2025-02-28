@@ -41,7 +41,7 @@ export default function Footer() {
             priority
           />
           <p className="text-xs xl:text-base">
-            Rua Manual João Souza, 540, São Paulo/SP - Brasil CNPJ:
+            Rua Joe Collaço, 000, Florianópolis/SC - Brasil CNPJ:
             000000/0000-00
           </p>
           <div className=" flex gap-5 items-center">
@@ -118,7 +118,7 @@ export default function Footer() {
                   aria-label="e-mail"
                   className="text-white-300"
                 />
-                <span>contato@imigrei.net</span>
+                <span>contato@gonfix.com</span>
               </Link>
             </li>
             <li>
@@ -132,7 +132,7 @@ export default function Footer() {
                   aria-label="whatsapp"
                   className="text-white-300"
                 />
-                <span>55+ 11 9 9999 - 9999</span>
+                <span>55+ 4899661-6744</span>
               </Link>
             </li>
           </ul>

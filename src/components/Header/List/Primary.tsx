@@ -121,7 +121,7 @@ export function ListPrimary() {
                         href="/servicos/visto-portugues"
                         onClick={handleClose}
                       >
-                        <li>Visto Portugues</li>
+                        <li>Serviço</li>
                       </Link>
                     </ul>
                   ) : (
@@ -216,12 +216,12 @@ export function ListPrimary() {
                     roundedTop="md"
                     className="active:bg-none text-base hover:bg-green-400 hover:text-black-400"
                   >
-                    Cidadania Portuguesa
+                    Serviço2
                   </MenuItem>
                 </Link>
                 <Link href="/servicos/cidadania-italiana">
                   <MenuItem className="active:bg-none text-base hover:bg-green-400 hover:text-black-400">
-                    Cidadania Italiana
+                    Serviço4
                   </MenuItem>
                 </Link>
                 <Link href="/servicos/visto-portugues">
@@ -229,7 +229,7 @@ export function ListPrimary() {
                     roundedBottom="md"
                     className="active:bg-none text-base hover:bg-green-400 hover:text-black-400"
                   >
-                    Visto Portugues
+                    Serviço3
                   </MenuItem>
                 </Link>
               </MenuList>

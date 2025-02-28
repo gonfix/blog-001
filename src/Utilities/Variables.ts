@@ -9,84 +9,84 @@ export const initState = {
 
 export const ServiceData = [
   {
-    title: "Cidadania Portuguesa",
+    title: "Serviço1",
     description:
-      "Oferecemos uma variedade de serviços para os nossos assessorados que buscam o sonho de viver em Portugal e Itália!",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "/servicos/cidadania-portuguesa",
     image: "/Home/service1.webp",
-    alt: "imagem de uma mulher referente a servicos cidadania Portuguesa",
+    alt: "imagem de uma mulher referente a servicos Serviço",
   },
   {
-    title: "Cidadania Italina",
+    title: "Serviço2",
     description:
-      "Oferecemos uma variedade de serviços para os nossos assessorados que buscam o sonho de viver em Portugal e Itália!",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "/servicos/cidadania-italiana",
     image: "/Home/service2.webp",
-    alt: "imagem de uma mulher referente a servicos cidadania Portuguesa",
+    alt: "imagem de uma mulher referente a servicos Serviço",
   },
   {
-    title: "Visto Portugues",
+    title: "Serviço3",
     description:
-      "Oferecemos uma variedade de serviços para os nossos assessorados que buscam o sonho de viver em Portugal e Itália!",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "/servicos/visto-portugues",
     image: "/Home/service3.webp",
-    alt: "imagem de uma mulher referente a servicos cidadania Portuguesa",
+    alt: "imagem de uma mulher referente a servicos Serviço",
   },
 ];
 
 export const ServiceDataVisto = [
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",
   },
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",
   },
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",
   },
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",
   },
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",
   },
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",
   },
   {
-    title: "Procura de Trabalho",
+    title: "Lorem Ipsum",
     description:
-      "Visto que possibilita que brasileiros permaneçam em Portugal por 120 dias, com a possibilidade de estender mais 60 dias, em busca de trabalho.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
     link: "#",
     image: "/Servicos/figure6.webp",
     alt: "texto de imamgem alternativo",

@@ -38,7 +38,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
             <div className="py-7 lg:py-16 flex flex-col lg:col-span-3">
               <div className=" flex flex-col lg:flex-row items-center lg:items-end gap-5">
                 <h1 className="mt-4 text-3xl font-medium  lg:text-5xl text-green-500 flex gap-4 order-2 lg:order-1">
-                  Cidadania Italiana
+                  Lorem Ipsum Dolor Sit Amet
                 </h1>
                 <Image
                   src="/bandeira-italia.webp"
@@ -50,8 +50,7 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                 />
               </div>
               <p className="mx-auto mt-4 lg:mt-6 text-green-300 text-sm lg:text-xl max-w-md lg:ml-0  lg:leading-6">
-                Conheça o nosso serviço de consultoria voltado para você que
-                quer conquitar a tão sonhada cidadania italana!
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
             <Image
@@ -80,14 +79,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                 Sobre o serviço
               </span>
               <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                Cidadania italiana via judicial para maiores de idade
+                Lorem Ipsum Dolor Sit Amet
               </h2>
               <p className="text-sm sm:text-base mt-4 text-gray-300 lg:leading-5">
-                O processo de cidadania italiana via judicial é uma opção para
-                quem não quer aguardar anos nas filas do consulado no Brasil e
-                também não tem condições de ir para a Itália por longos meses.
-                Poderá ser solicitada por maiores de idade que comprovem
-                descendência italiana.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
           </div>
@@ -149,12 +144,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
             <div className="text-center container">
               <span className="text-green-500 font-medium">Como Funciona</span>
               <h2 className="mt-2  text-2xl sm:text-4xl text-black-400 font-medium">
-                Entenda o nosso processo em 3 etapas
+                Lorem Ipsum Dolor Sit Amet
               </h2>
               <p className="text-base mt-4 text-gray-300 mx-auto max-w-2xl px-2   lg:leading-5 ">
-                A nossa consultoria é dividida, basicamente, em três etapas que
-                garantem organização e eficácia no processo de conquista da
-                cidadania portuguesa.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
           </div>
@@ -215,11 +208,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
             <div className="text-center">
               <span className="text-green-500 font-medium">FAQ</span>
               <h2 className="mt-2 text-2xl lg:text-4xl text-black-400 font-medium">
-                Veja as dúvidas frequentes sobre o processo
+                Lorem Ipsum Dolor Sit Amet
               </h2>
               <p className="text-sm lg:text-base mt-4 text-gray-300 mx-auto max-w-2xl lg:px-2   lg:leading-5 ">
-                Selecionamos as dúvidas mais frequêntes sobre o processo de
-                solicitação da cidadania Itália.
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
               </p>
             </div>
           </div>
@@ -461,12 +453,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                   Contato
                 </span>
                 <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium lg:leading-9">
-                  Vamos conquistar o sonho da cidadania portuguesa?
+                  Lorem Ipsum Dolor Sit Amet
                 </h2>
                 <p className="text-sm sm:text-base mt-4 text-gray-300">
-                  Entre em contato conosco e solicite um orçamento para o seu
-                  pedido de cidadania. A Imigrei terá o prazer de te auxiliar
-                  neste sonho!
+                  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                 </p>
                 <Link
                   href="/contato"
@@ -490,11 +480,10 @@ const CidadaniaItaliana: NextPage<CidadaniaItalianaProps> = ({ blogData }) => {
                 <div className="max-w-3xl mx-auto mb-14 lg:ml-0">
                   <span className="mt-4 text-green-500 font-medium">Blog</span>
                   <h2 className="mt-2 text-2xl sm:text-4xl text-black-400 font-medium">
-                    Conteúdo relacionado
+                    Lorem Ipsum Dolor Sit Amet
                   </h2>
                   <p className="text-sm sm:text-base mt-4 text-gray-300  lg:leading-5">
-                    Veja alguns dos posts do nosso blog que estão relacionados
-                    com o processo de cidadania portuguesa.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
                   </p>
                 </div>
                 <Link href="/blog" className="hidden lg:block button ml-auto">

@@ -132,7 +132,7 @@ export default function PostContent({ post }: PostContentProps) {
                 href="/"
                 className="mt-8 tags text-base self-start bg-green-500 text-white-500 "
               >
-                Ver site Imigrei
+                Ver site AAAA
               </Link>
               <Image
                 src="/Blog/blog-sidebar.webp"

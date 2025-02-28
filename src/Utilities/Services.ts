@@ -107,10 +107,10 @@ export const useServiceQuery = async () => {
     query: GET_FIRST_FOUR_POSTS_BY_CREATE_QUERY,
   });
   const getFirstFourPosts = (): Post[] => {
-    return data.data.posts;
+    return data?.posts || [];
   };
   const getFirstFourPostsByCreate = (): Post[] => {
-    return dataCreate.data.posts;
+    return dataCreate?.posts || [];
   };
   const getPostBySlug = async (slug: string): Promise<Post | null> => {
     const { data } = await client.query<{ post: Post }>({
@@ -119,7 +119,7 @@ export const useServiceQuery = async () => {
         slug,
       },
     });
-    return data.post || null;
+    return data?.post || null;
   };
 
   const getFourPostsByType = async (postType: String | any) => {
@@ -129,16 +129,20 @@ export const useServiceQuery = async () => {
         postType: postType,
       },
     });
-    return data.posts;
+    return data?.posts || [];
   };
-  const getAllPostsByType = async (postType: String | any) => {
-    const { data } = await client.query<{ posts: Post[] }>({
-      query: GET_ALL_POSTS_BY_TYPE_QUERY,
-      variables: {
-        postType: postType,
-      },
-    });
-    return data.posts;
+  const getAllPostsByType = async (postType: String | any): Promise<Post[]> => {
+    try {
+      const { data } = await client.query<{ posts: Post[] }>({
+        query: GET_ALL_POSTS_BY_TYPE_QUERY,
+        variables: {
+          postType: postType,
+        },
+      });
+      return data?.posts ?? [];
+    } catch (error) {
+      return [];
+    }
   };
 
   const getAllPostsByTypeOrderCreatedAsc = async (postType: String | any) => {
@@ -148,7 +152,7 @@ export const useServiceQuery = async () => {
         postType: postType,
       },
     });
-    return data.posts;
+    return data?.posts || null;
   };
   const getAllPostsByTypeOrderUpdatedDes = async (postType: String | any) => {
     const { data } = await client.query<{ posts: Post[] }>({
@@ -157,7 +161,7 @@ export const useServiceQuery = async () => {
         postType: postType,
       },
     });
-    return data.posts;
+    return data?.posts || null;
   };
 
   const getAllPostsByTypeOrderUpdatedAsc = async (postType: String | any) => {
@@ -167,7 +171,7 @@ export const useServiceQuery = async () => {
         postType: postType,
       },
     });
-    return data.posts;
+    return data?.posts || null;
   };
 
   return {
